@@ -24,7 +24,7 @@ print("UofT Eng Average: {:.2f}".format(statistics.mean(uoft_average) ))
 
 print("You need to get a mark up by", (y*6-u*6), " to get a", y, "average")
 
-print("created by Tri Ho, github.com/vinhocent")
+print("Created by Tri Ho, github.com/vinhocent")
 
 input()
 
