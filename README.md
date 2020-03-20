@@ -5,3 +5,5 @@ In the midst of the admissions process and reddit/admissions thread scrolling, I
 
 Input your desired average and your top 6 marks to figure out your average and how many net marks you need to gain to get your desired average.
 
+ [Demo](https://vinhocent.github.io/Engineering-Admissions-Average-Calculator/)
+
